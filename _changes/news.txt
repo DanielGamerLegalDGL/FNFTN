@@ -1,5 +1,4 @@
 mods/data/news/events.json
-mods/data/news/news-n.json
 mods/data/news/news.json
 mods/songs/news/Voices.ogg
 mods/songs/news/Inst.ogg
