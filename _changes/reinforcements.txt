@@ -2,3 +2,5 @@ mods/data/reinforcements/events.json
 mods/data/reinforcements/reinforcements-hard.json
 mods/songs/reinforcements/Voices.ogg
 mods/songs/reinforcements/Inst.ogg
+mods/songs/reinforcements/voices.ogg
+mods/songs/reinforcements/inst.ogg
